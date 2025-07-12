@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables and credentials
+.env
+firebase-credentials.json
+
+# macOS-specific files
+.DS_Store
+
+# VSCode settings (if applicable)
+.vscode/
+
+# Test files or logs (optional)
+*.log
+
