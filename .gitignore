@@ -9,7 +9,7 @@ venv/
 # Environment variables and credentials
 .env
 firebase-credentials.json
-
+firebase_config.py
 # macOS-specific files
 .DS_Store
 
