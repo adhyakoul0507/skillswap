@@ -1,4 +1,4 @@
-Problem Statement
+Problem Statement: 
 In many communities, people possess valuable skills but lack access to services they can’t afford. This platform empowers users to exchange skills directly — for example:
 
 A developer can teach coding in exchange for guitar lessons
