@@ -28,3 +28,74 @@ skill-swap/
 └── requirements.txt          # ← Dependencies
 
 
+
+🔄 Skill Swap Platform — Summary
+What it is:
+A community-based web application where users can exchange skills with one another — like “I teach you Photoshop, you teach me Excel.”
+
+🌟 Key Features
+📝 User Registration & Login
+
+Users can sign up or log in securely using Firebase Authentication.
+
+👤 Create a Public or Private Profile
+
+Add your name, location, availability, and skill interests (both skills you offer and want to learn).
+
+Choose whether your profile is public or private.
+
+🎯 Skill Listing
+
+Users can add skills they offer or want to learn.
+
+Each skill includes a proficiency level and optional description.
+
+🔍 Browse & Search Users
+
+View a list of other users with their offered/wanted skills and availability.
+
+Filter by availability and search by name or location.
+
+🤝 Request Skill Swaps
+
+If you see a match, you can send a barter request offering one of your skills in exchange.
+
+Requests include an optional message and are tracked in your account.
+
+📥 Accept or Reject Requests
+
+Received requests can be accepted or rejected with one click.
+
+Status updates are shown clearly with labels like “Pending,” “Accepted,” or “Rejected.”
+
+🔄 Track Transactions
+
+Once a swap is accepted, it becomes a transaction that can be tracked with a progress percentage.
+
+⚙️ Admin Panel
+
+Special interface for admins to view platform-wide stats or moderate content.
+
+📢 Platform Messages
+
+Admins can send notices and system updates visible to all users.
+
+🛠️ Tech Stack
+Frontend: Streamlit (Python-based web UI framework)
+
+Backend: Firebase (Authentication, Realtime DB, Firestore, etc.)
+
+Styling: Custom CSS embedded in Streamlit
+
+Session Management: Streamlit session_state
+
+Role Management: User roles (admin vs regular user)
+
+💡 Example Use Case
+John knows video editing and wants to learn Excel automation.
+
+Sara is an Excel pro who wants to improve in video editing.
+
+Both find each other, send requests, and swap skills through sessions.
+
+
