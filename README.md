@@ -18,4 +18,13 @@ KASHISH GUPTA guptakashish1012@gmail.com
 
 
 
+skill-swap/
+├── main.py                   # ← RUN THIS with Streamlit
+├── firebase_config.py        # ← Backend logic (imported by main.py)
+├── complete_database.py      # ← Database operations (imported by firebase_config.py)
+├── admin_pages.py            # ← Admin interface (imported by main.py)
+├── .env                      # ← Your Firebase credentials
+├── firebase-credentials.json # ← Service account key
+└── requirements.txt          # ← Dependencies
+
 
