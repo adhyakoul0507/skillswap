@@ -9,13 +9,4 @@ venv/
 # Environment variables and credentials
 .env
 firebase-credentials.json
-firebase_config.py
-# macOS-specific files
-.DS_Store
-
-# VSCode settings (if applicable)
-.vscode/
-
-# Test files or logs (optional)
-*.log
-
+firebase_config.py 
